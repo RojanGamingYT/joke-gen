@@ -1,2 +1,1 @@
-# joke-gen
-Joke Generator using html,css,javascript
+# Random Jokes Generator javascript | Joke Generator html,css,javascript
